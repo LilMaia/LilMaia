@@ -21,6 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/rafael-maia-8ab2a119b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/LilMaia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LilMaia/LilMaia/blob/output/github-contribution-grid-snake.svg)
  
 </div>

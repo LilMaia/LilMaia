@@ -1,4 +1,4 @@
-## <center> Eae eu me chamo Rafael Maia, seja bem vindo ao meu Github !!! <center>
+## <center> Bem-vindo ao meu Github !!! <center>
 
 <div align="center">
   <a href="https://github.com/LilMaia">

@@ -4,7 +4,7 @@
   <a href="https://github.com/LilMaia">
 </div>
 
-## Desenvolvedor Android Kotlin e back-end
+## Desenvolvedor Android Kotlin e Back-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
